@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Minesweeper.iml" filepath="$PROJECT_DIR$/.idea/modules/Minesweeper.iml" group="Minesweeper" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of longs/Problems-Initializing_an_array_of_longs.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of longs/Problems-Initializing_an_array_of_longs.iml" group="Minesweeper/Problems-Initializing_an_array_of_longs" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of longs/Problems-Initializing_an_array_of_longs_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of longs/Problems-Initializing_an_array_of_longs_main.iml" group="Minesweeper/Problems-Initializing_an_array_of_longs" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of longs/Problems-Initializing_an_array_of_longs_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Initializing an array of longs/Problems-Initializing_an_array_of_longs_test.iml" group="Minesweeper/Problems-Initializing_an_array_of_longs" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Minesweeper/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Minesweeper/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Minesweeper/util" />
+    </modules>
+  </component>
+</project>
