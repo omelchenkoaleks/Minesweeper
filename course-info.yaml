@@ -7,5 +7,6 @@ summary: 'They say a minesweeper makes only two mistakes in their life: the firs
   both you and your players.<br/><br/>Learn more at <a href="https://hyperskill.org">https://hyperskill.org/projects/8</a>'
 programming_language: Kotlin
 content:
+- Minesweeper
 - Problems
 mode: Study
